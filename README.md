@@ -1,4 +1,4 @@
-apa itu fibonai ?, 
+apa itu fibonacci ?, 
 fibonnaci merupakan sebuah deret angka yang diperoleh dari menjumlahkan dua angka sebelumnya.
 contohnya seperti: 
 0 1 akan menjadi 1
